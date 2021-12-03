@@ -10,7 +10,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@babel/core": "^7.16.0",
     "@babel/parser": "^7.16.4",
     "@babel/traverse": "^7.16.3"
+  },
+  "dependencies": {
+    "-": "0.0.1",
+    "@babel/preset-env": "^7.16.4",
+    "D": "^1.0.0"
   }
 }
